@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++
+- 📫 How to reach me rabit
 
 <!---
 Amirkabir20/Amirkabir20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
